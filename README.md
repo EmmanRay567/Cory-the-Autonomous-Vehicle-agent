@@ -856,7 +856,7 @@ This modular structure makes the code easier to:
 
 # Machine Learning Observations
 
-One of the most important lessons from this project came from observing the neural network outside its original training examples.
+One of the most important lessons I learned from this project came from observing the neural network outside its original training examples.
 
 The network correctly learned several examples from the training dataset.
 
